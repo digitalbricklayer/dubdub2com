@@ -4,9 +4,9 @@ enableSearch = true
 # socials
 twitter = "@MrJackHughes"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "One man's journey into desktop wargaming and beyond."
-introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
-description = "The Wooden Spoon is a desktop wargaming blog specialising in World War 2 gaming."
+introDescription = "One man's journey into tabletop wargaming and beyond."
+introURL = "about/"
+description = "The Wooden Spoon is a tabletop wargaming blog specialising in World War 2 gaming."
 keywords = ["wargaming", "desktop wargaming", "world war 2", "bolt action", "flames of war"]
 
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
