@@ -8,11 +8,11 @@ tags:
 image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
 ---
 
-I am relatively new to wargaming. My journey started in September 2016 with a game of Memoir '44. Just the one game was enough was sufficient to wet my appetite.
+My names is Jack Hughes and I am relatively new to wargaming. My journey started in September 2016 with a game of Memoir '44. Just the one game was enough to wet my appetite.
 
 <<image of Memoir '44 game goes here>>
 
-Living in West Yorkshire we are very lucky to have a couple of wargaming conventions. This is where I headed next. I attended FIASCO at the [Royal Armouries](https://royalarmouries.org/) in Leeds and discovered the world of participation games.
+We are very lucky living in West Yorkshire to have three wargaming conventions close by. After my game of Memoir '44 I headed to my local show which happily was happening soon after. I attended [FIASCO](https://leedswargamesclub.com/events) at the [Royal Armouries](https://royalarmouries.org/) in Leeds and discovered the world of participation tabletop wargames.
 
 <<pictures from FIASCO go here>>
 
