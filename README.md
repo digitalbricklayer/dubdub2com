@@ -9,3 +9,5 @@ To update the theme: `git submodule update --remote --merge`
 To run a local webserver: `hugo server`
 
 To build the site: `hugo`
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/38687bb0-7718-4684-8a9a-bfdaf4fbcfab/deploy-status)](https://app.netlify.com/sites/dubdub2com/deploys)
