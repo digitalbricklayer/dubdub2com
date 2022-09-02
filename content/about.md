@@ -2,7 +2,7 @@
 title: "About"
 description: "A description of the Wooden Spoon blog and what you can expect to read here."
 date: "2022-09-01"
-aliases: ["about-us"]
+slug: "about-us"
 author: "Jack Hughes"
 ---
 
