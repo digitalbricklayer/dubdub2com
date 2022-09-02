@@ -5,9 +5,8 @@ copyright = "Copyright © 2022, Jack Hughes; all rights reserved."
 paginate = 10
 theme = ["github.com/chipzoller/hugo-clarity"]
 disqusShortname = ""
-
 DefaultContentLanguage = "en"
-
+enableGitInfo = true
 enableRobotsTXT = true
 
 [taxonomies]
