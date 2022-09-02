@@ -5,7 +5,7 @@
 
 [[main]]
   name = "About"
-  url = "about/"
+  url = "about-us/"
   weight = -107
 
 # social menu links
