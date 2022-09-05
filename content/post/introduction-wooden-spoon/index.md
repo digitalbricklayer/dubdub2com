@@ -12,13 +12,15 @@ My names is Jack Hughes and I am relatively new to wargaming. My journey started
 
 ![First and thus far only game of Memoir 44](memoir-44.jpg)
 
-We are very lucky living in West Yorkshire to have three wargaming conventions close by. After my game of Memoir '44 I headed to my local show which happily was happening soon after. I attended [FIASCO](https://leedswargamesclub.com/sig-int/f/fiasco-22) at the [Royal Armouries](https://royalarmouries.org/) in Leeds and discovered the world of participation tabletop wargames.
+We are very lucky living in West Yorkshire to have three wargaming conventions close by. After my one game of Memoir '44 I headed to my local show which happily was happening soon after. I attended [FIASCO](https://leedswargamesclub.com/sig-int/f/fiasco-22) at the [Royal Armouries](https://royalarmouries.org/) in Leeds and discovered the world of participation tabletop wargames.
 
-<<pictures from  go here>>
-![FIASCO 2016](fiasco-2016-1.jpg)
-![](fiasco-2016-2.jpg)
+![Ilkley Lads FIASCO 2016 Battle of Chotusitz 1742](fiasco-2016-1.jpg)
 
 ## A Sampling of Flames of War
+
+![](night-owls-fow-v3-1.jpg)
+![](night-owls-fow-v3-2.jpg)
+![](night-owls-fow-v3-3.jpg)
 
 ## The Bolt Action Years
 
@@ -28,6 +30,3 @@ We are very lucky living in West Yorkshire to have three wargaming conventions c
 
 ![](fow-home-1.jpg)
 ![](fow-home-2.jpg)
-![](night-owls-fow-v3-1.jpg)
-![](night-owls-fow-v3-2.jpg)
-![](night-owls-fow-v3-3.jpg)
