@@ -36,7 +36,7 @@ Bolt Action is a huge World War 2 skirmish game in the UK and beyond. The game a
 
 More recently, Bolt Action has started to bring new members into the club. You've got to be grateful for anything that brings new members. The new members bring new dynamism and enthusiasm.
 
-Bolt Action certainly isn't one of my favourite games, it does give a good, social experience.
+Bolt Action certainly isn't my favourite game, it does give a good, social experience.
 
 ## A Return to Flames
 
@@ -48,4 +48,4 @@ One thing I'm determined to do is get better at painting.
 
 I used COVID-19 induced home time to paint quite a lot of Russian infantry for Team Yankee in 15mm as well as two armies in 6mm for the same ruleset.
 
-I have completed two battalion sized armies in 6mm for O Group in 2022. 
+I have completed two battalion sized armies in 6mm for O Group in 2022.
