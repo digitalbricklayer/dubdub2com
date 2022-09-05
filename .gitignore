@@ -3,6 +3,7 @@
 # Hugo generated file cache
 /resources/*
 !/resources/.gitkeep
+.hugo_build.lock
 
 # Emacs backup files
 *~
