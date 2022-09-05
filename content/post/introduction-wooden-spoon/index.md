@@ -26,11 +26,22 @@ The image below is from a later game of Flames of War. It may well be the final 
 
 Not long after this game Flames of War kind of petered out. The new version 4 had only just been released and people kind of drifted away for a while.
 
+I am not the most natural modeler or painter. So, off to ebay I went and picked up one of the old version 3 starter sets.
+
+![Flames of War version 3 starter set](fow-home-2.jpg)
+
 ## The Bolt Action Years
+
+Bolt Action is a huge World War 2 skirmish game in the UK and beyond. The game absolutely dominated the tables at Night Owls for many years. 
+
+More recently, Bolt Action has started to bring new members into the club. You've got to be grateful for anything that brings new members. The new members bring new dynamism and enthusiasm.
+
+Bolt Action certainly isn't one of my favourite games, it does give a good, social experience.
 
 ## A Return to Flames
 
+As soon as Flames of War version 4 started to release the D Day late war books things began to bloom at the club. 
+
 ## The Search for More
 
-![](fow-home-1.jpg)
-![](fow-home-2.jpg)
+One thing I'm determined to do is get better at painting. I have painted quite a lot of Russian infantry for Team Yankee in 15mm as well as two armies in 6mm for the same ruleset. 
