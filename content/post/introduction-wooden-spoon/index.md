@@ -6,12 +6,11 @@ featured: true
 tags:
   - Flames of War
   - Bolt Action
-image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
 ---
 
 My names is Jack Hughes and I am relatively new to wargaming. My journey started in September 2016 with a game of Memoir '44. Just the one game was enough to wet my appetite.
 
-![First and thus far only game of Memoir '44](memoir-44.jpg)
+![First and thus far only game of Memoir 44](memoir-44.jpg)
 
 We are very lucky living in West Yorkshire to have three wargaming conventions close by. After my game of Memoir '44 I headed to my local show which happily was happening soon after. I attended [FIASCO](https://leedswargamesclub.com/sig-int/f/fiasco-22) at the [Royal Armouries](https://royalarmouries.org/) in Leeds and discovered the world of participation tabletop wargames.
 
