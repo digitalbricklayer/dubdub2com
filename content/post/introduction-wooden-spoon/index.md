@@ -44,4 +44,8 @@ As soon as Flames of War version 4 started to release the D Day late war books t
 
 ## The Search for More
 
-One thing I'm determined to do is get better at painting. I have painted quite a lot of Russian infantry for Team Yankee in 15mm as well as two armies in 6mm for the same ruleset. 
+One thing I'm determined to do is get better at painting.
+
+I used COVID-19 induced home time to paint quite a lot of Russian infantry for Team Yankee in 15mm as well as two armies in 6mm for the same ruleset.
+
+I have completed two battalion sized armies in 6mm for O Group in 2022. 
