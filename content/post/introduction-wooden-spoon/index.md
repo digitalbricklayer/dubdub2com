@@ -18,11 +18,13 @@ We are very lucky living in West Yorkshire to have three wargaming conventions c
 
 ## A Sampling of Flames of War
 
-Whilst at FIASCO for the first time I encountered the Night Owls wargaming club. Happily the club meet every Sunday morning within 30 minutes drive of my home. I eventually ventured forth one Sunday and attended the club. I was given a warm welcome and was introduced to the joys of tabletop wargaming. My first game proper was Flames of War v3.
+Whilst at FIASCO for the first time I encountered the Leeds Night Owls wargaming club. Happily the club meet every Sunday morning within 30 minutes drive of my home. I eventually ventured forth one Sunday and attended the club. I was given a warm welcome and was introduced to the joys of tabletop wargaming. My first game proper was Flames of War version 3.
 
-![](night-owls-fow-v3-1.jpg)
-![](night-owls-fow-v3-2.jpg)
-![](night-owls-fow-v3-3.jpg)
+The image below is from a later game of Flames of War. It may well be the final time Flames of War version 3 was played at the club.
+
+![Flames of War version 3 being played at Leeds Night Owls](night-owls-fow-v3-1.jpg)
+
+Not long after this game Flames of War kind of petered out. The new version 4 had only just been released and people kind of drifted away for a while.
 
 ## The Bolt Action Years
 
