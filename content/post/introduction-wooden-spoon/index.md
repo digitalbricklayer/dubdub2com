@@ -2,6 +2,7 @@
 title: Introduction to The Wooden Spoon
 description: A brief introduction to my wargaming journey and The Wooden Spoon.
 date: 2022-08-15
+featured: true
 tags:
   - Flames of War
   - Bolt Action
