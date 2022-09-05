@@ -1,3 +1,4 @@
+# Main site navigation
 [[main]]
   name = "Home"
   url = ""
@@ -17,7 +18,7 @@
 [[social]]
   name = "facebook"
   weight = 2
-  url = "https://facebook.com/#"
+  url = "https://www.facebook.com/jack.hughes.5832"
 [[social]]
   name = "rss"
   weight = 3
