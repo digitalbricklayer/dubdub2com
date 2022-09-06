@@ -46,7 +46,7 @@ As soon as Flames of War version 4 started to release the D Day late war books t
 
 ## The Search for More
 
-One thing I'm determined to do is get better at painting. I know I'm never going to win any prizes but my ambition is just to paint to a tabletop standard and I think I'm already there. They say that you need to paint close to 1,000 figures to get a reasonable idea of what you are doing. I'm probably in the 400-500 zone so I am starting to get a reasonable idea. My advice is to seek advice from your local Warhammer store. I've received great advice from there. The employees at Warhammer usually have experience with historical miniatures so are well placed to give good advice.
+One thing I'm determined to do is get better at painting. I know I'm never going to win any prizes but my ambition is just to paint to a basic tabletop standard. They say that you need to paint close to 1,000 figures to get a reasonable idea of what you are doing. I'm probably in the ~400 zone so I am starting to get a reasonable idea. My advice is to seek advice from your local Warhammer store. I've received great advice from there. The employees at Warhammer usually have experience with historical miniatures so are well placed to give good advice.
 
 I used COVID-19 induced home time to paint quite a lot of Russian infantry for Team Yankee in 15mm as well as two armies in 6mm for the same ruleset.
 
