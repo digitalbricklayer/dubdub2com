@@ -7,14 +7,18 @@ draft: true
 
 A quick survey of World War 2 wargaming.
 
+## Bolt Action
+
+![Night Owls Bolt Action Game](bolt-action-1.jpg)
+
 Bolt Action is the absolute jugernaut of hobbyist World War 2 wargaming. A lot of wargamers enter the hobby through Warhammer sci-fi offerings eventually want to go historical and the logical place for them to go is Bolt Action.
 
-Flames of War
+![Night Owls Bolt Action Game](bolt-action-2.jpg)
+![First Tournament Bolt Action Match](bolt-action-3.jpg)
 
-O Group
+## Flames of War
 
-![](flames-of-war-ebay.jpg)
-![](flames-of-war-v4.jpg)
-![](bolt-action-1.jpg)
-![](bolt-action-2.jpg)
-![](bolt-action-3.jpg)
+![First tranch of Flames of War Germans from eBay](flames-of-war-ebay.jpg)
+![Night Owls Flames of War v4 Game](flames-of-war-v4.jpg)
+
+## O Group
