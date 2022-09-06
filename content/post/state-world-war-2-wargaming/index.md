@@ -2,6 +2,10 @@
 title: The State of World War 2 Wargaming
 description: "A survey of UK World War 2 wargaming in 2022"
 date: 2022-09-06
+tags:
+  - Flames of War
+  - Bolt Action
+  - O Group
 draft: true
 ---
 
@@ -21,4 +25,4 @@ Bolt Action is the absolute jugernaut of hobbyist World War 2 wargaming. A lot o
 ![First tranch of Flames of War Germans from eBay](flames-of-war-ebay.jpg)
 ![Night Owls Flames of War v4 Game](flames-of-war-v4.jpg)
 
-## O Group
+## 'O' Group
