@@ -6,7 +6,6 @@ tags:
   - Flames of War
   - Bolt Action
   - O Group
-draft: true
 ---
 
 A quick survey of my World War 2 wargaming journey so far as of September 2022.
