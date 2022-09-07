@@ -6,6 +6,7 @@ featured: true
 tags:
   - Flames of War
   - Bolt Action
+  - Team Yankee
 ---
 
 My names is Jack Hughes and I am relatively new to wargaming. My journey started in September 2016 with a game of Memoir '44. Just one game was enough to wet my appetite.
@@ -46,8 +47,16 @@ As soon as Flames of War version 4 started to release the D Day late war books t
 
 ## The Search for More
 
-One thing I'm determined to do is get better at painting. I know I'm never going to win any prizes but my ambition is just to paint to a basic tabletop standard. They say that you need to paint close to 1,000 figures to get a reasonable idea of what you are doing. I'm probably in the ~400 zone so I am starting to get a reasonable idea. My advice is to seek advice from your local Warhammer store. I've received great advice from there. The employees at Warhammer usually have experience with historical miniatures so are well placed to give good advice.
+One thing I'm determined to do is get better at painting. I know I'm never going to win any prizes but my ambition is just to paint to a basic tabletop standard. They say that you need to paint close to 1,000 figures to get a reasonable idea of what you are doing. I'm probably in the ~400 zone so I am starting to get a reasonable idea. My advice is to seek advice from your local Warhammer store. I've received great advice from there. The employees at Warhammer often have experience with historical miniatures so are well placed to give good advice. At the very least they will have a good idea which Citadel bases, highlights and washes go well together.
 
-I used COVID-19 induced home time to paint quite a lot of Russian infantry for Team Yankee in 15mm as well as two armies in 6mm for the same ruleset.
+Given that I enjoy Flames of War, it made sense to have a look at Team Yankee a very similar cold war based ruleset by the same company. Like Flames of War, Team Yankee is usually played with 15mm miniatures though I've found it works really well at 6mm as well.
 
-I have completed two battalion sized (at 3:1 scale) armies in 6mm for O Group in 2022.
+The ever trusty eBay provided a solid Russian army base. I have since boulstered my anti-aircraft units by painting my own.
+
+![Team Yankee eBay](team-yankee-ebay.jpg)
+
+I used COVID-19 induced home time to paint quite a lot of Russian infantry for Team Yankee in 15mm as well as two cold war armies in 6mm for the same ruleset.
+
+![Team Yankee Russian Infantry](team-yankee-russian.jpg)
+
+I have completed two battalion sized (at 3:1 scale) armies in 6mm for 'O' Group in 2022.
