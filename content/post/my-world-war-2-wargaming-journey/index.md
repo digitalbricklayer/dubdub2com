@@ -36,4 +36,4 @@ I have recently painted quite a lot of German mortars as well as 7.5cm light and
 
 ## The Future
 
-One of the problems with the rules already mentioned is that they focus on quite small actions within a battle. What I want to do is to actually fight large, multi-day named battles. My initial focus when starting wargaming was to give some focus to learn more about the history of World War 2. I don't feel that platoon or company level games really provide the scoffolding to aid that learning. Partly this blog is my way to document the search for a set of rules that will allow me to fight full named battles.
+One of the problems with the rules already mentioned is that they focus on quite small actions within a battle. What I want to do is to actually fight large, multi-day named battles. My initial idea when starting wargaming was to give some focus to learn more about the history of World War 2. I don't feel that platoon or company level games really provide the scoffolding to aid that learning. Partly this blog is my way to document the search for a set of rules that will allow me to fight full named battles.
