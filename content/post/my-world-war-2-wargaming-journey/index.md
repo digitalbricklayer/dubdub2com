@@ -1,18 +1,16 @@
 ---
 title: My World War 2 Wargaming Journey
-description: "A survey of UK World War 2 wargaming in 2022"
-date: 2022-09-06
+description: "A journey through my World War 2 wargaming so far up to September 2022"
+date: 2022-09-07
 tags:
   - Flames of War
   - Bolt Action
   - O Group
 ---
 
-A quick survey of my World War 2 wargaming journey so far as of September 2022.
+A quick survey of my World War 2 wargaming journey so far up until September 2022.
 
 ## Bolt Action
-
-![Leeds Night Owls Bolt Action Game](bolt-action-1.jpg)
 
 Bolt Action is the absolute jugernaut of hobbyist World War 2 wargaming. A lot of wargamers enter the hobby through Warhammer sci-fi offerings eventually want to go historical and the logical place for them to go is Bolt Action.
 
