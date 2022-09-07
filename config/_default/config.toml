@@ -9,10 +9,11 @@ DefaultContentLanguage = "en"
 enableGitInfo = true
 enableRobotsTXT = true
 
+# There are no categories or series as yet 
 [taxonomies]
-category = "categories"
+#category = "categories"
 tag = "tags"
-series = "series"
+#series = "series"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
