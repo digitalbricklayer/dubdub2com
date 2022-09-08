@@ -4,22 +4,20 @@
 {{- $showPostMeta := or ($showShare) ($showDate) ($showReadTime) (isset .Params "tags") }}
 {{- $scratch := newScratch }}
 {{- $scratch.Set "writeSeparator" false }}
-{{- $showStartedDate := ne (.Param "started") false }}
-{{- $showCompletedDate := ne (.Param "completed") false }}
 {{- if $showPostMeta }}
   <div class="post_meta">
 {{- end }}
-  {{- if $showStartedDate }}
-    <span>Started: {{ partial "sprite" (dict "icon" "calendar") }}</span>
-    <span class="post_date">
-      {{ .Date.Format (default "Jan 2, 2006" $.Site.Params.started) -}}
-    </span>
+  {{- with .Params.started -}}
+      <span>Started {{ partial "sprite" (dict "icon" "calendar") }}</span>
+      <span class="post_date">
+        {{ . | time.Format ":date_long" }}
+      </span>
     {{- $scratch.Set "writeSeparator" true }}
   {{- end }}
-  {{- if $showCompletedDate }}
-    <span>Finished: {{ partial "sprite" (dict "icon" "calendar") }}</span>
+  {{- with .Params.completed -}}
+    <span>Completed {{ partial "sprite" (dict "icon" "calendar") }}</span>
     <span class="post_date">
-      {{ .Date.Format (default "Jan 2, 2006" $.Site.Params.completed) -}}
+      {{ . | time.Format ":date_long" }}
     </span>
     {{- $scratch.Set "writeSeparator" true }}
   {{- end }}

@@ -7,7 +7,7 @@ suppliers:
   - Baccus 6mm
   - 2D6
 started: 2022-09-08
-completed: 2022-09-15
+completed: 
 rulesets:
   - O Group
 tags:
