@@ -5,9 +5,14 @@
   weight = -110
 
 [[main]]
+  name = "Posts"
+  url = "post/"
+  weight = -107
+
+[[main]]
   name = "About"
   url = "about-us/"
-  weight = -107
+  weight = -106
 
 # social menu links
 [[social]]
