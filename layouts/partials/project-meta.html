@@ -1,0 +1,40 @@
+{{- $showShare := ne (.Param "showshare") false }}
+{{- $showDate := ne (.Param "showdate") false }}
+{{- $showReadTime := ne (.Param "showreadtime") false }}
+{{- $showPostMeta := or ($showShare) ($showDate) ($showReadTime) (isset .Params "tags") }}
+{{- $scratch := newScratch }}
+{{- $scratch.Set "writeSeparator" false }}
+{{- $showStartedDate := ne (.Param "started") false }}
+{{- $showCompletedDate := ne (.Param "completed") false }}
+{{- if $showPostMeta }}
+  <div class="post_meta">
+{{- end }}
+  {{- if $showStartedDate }}
+    <span>Started: {{ partial "sprite" (dict "icon" "calendar") }}</span>
+    <span class="post_date">
+      {{ .Date.Format (default "Jan 2, 2006" $.Site.Params.started) -}}
+    </span>
+    {{- $scratch.Set "writeSeparator" true }}
+  {{- end }}
+  {{- if $showCompletedDate }}
+    <span>Finished: {{ partial "sprite" (dict "icon" "calendar") }}</span>
+    <span class="post_date">
+      {{ .Date.Format (default "Jan 2, 2006" $.Site.Params.completed) -}}
+    </span>
+    {{- $scratch.Set "writeSeparator" true }}
+  {{- end }}
+  {{- with .Params.tags -}}
+    <span>
+      {{- if ($scratch.Get "writeSeparator") }}&nbsp;· {{ end }}
+      {{- range . }}
+        {{- $tag := urlize . -}}
+        <a href='{{ absLangURL (printf "tags/%s/" $tag) }}' title="{{ . }}" class="post_tag button button_translucent">
+          {{- . }}
+        </a>
+      {{- end }}
+    </span>
+    {{- $scratch.Set "writeSeparator" true }}
+  {{- end }}
+{{- if $showPostMeta }}
+  </div>
+{{- end }}
