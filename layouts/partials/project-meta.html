@@ -23,18 +23,18 @@
   {{- end }}
   {{- with .Params.suppliers -}}
     <dt>Suppliers</dt>
-    <dd>
       {{- range . }}
+      <dd>
         {{- . }}
+      </dd>
       {{- end }}
-    </dd>
   {{- end }}
   {{- with .Params.rulesets -}}
     <dt>Rulesets</dt>
-    <dd>
       {{- range . }}
+      <dd>
         {{- . }}
+      </dd>
       {{- end }}
-    </dd>
   {{- end }}
 </dl>
