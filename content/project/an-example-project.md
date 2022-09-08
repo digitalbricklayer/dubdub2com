@@ -15,4 +15,8 @@ tags:
 draft: true
 ---
 
-**Insert Lead paragraph here.**
+**Project summary goes here**
+
+<!--more-->
+
+**More expansive description goes here...**
