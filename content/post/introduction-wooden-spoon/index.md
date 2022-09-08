@@ -53,7 +53,7 @@ One thing I'm determined to do is get better at painting. I know I'm never going
 
 Given that I enjoy Flames of War, it made sense to have a look at Team Yankee a very similar cold war based ruleset by the same company. Like Flames of War, Team Yankee is usually played with 15mm miniatures though I've found it works really well at 6mm as well.
 
-The ever trusty eBay provided a solid Russian army base. I have since boulstered my anti-aircraft units by painting my own.
+The ever trusty eBay provided a solid Russian army base. I have since bolstered my anti-aircraft units by painting my own.
 
 ![Team Yankee eBay](team-yankee-ebay.jpg)
 
