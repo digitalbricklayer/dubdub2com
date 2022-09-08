@@ -1,38 +1,34 @@
-{{- $showShare := ne (.Param "showshare") false }}
-{{- $showDate := ne (.Param "showdate") false }}
-{{- $showReadTime := ne (.Param "showreadtime") false }}
-{{- $showPostMeta := or ($showShare) ($showDate) ($showReadTime) (isset .Params "tags") }}
-{{- $scratch := newScratch }}
-{{- $scratch.Set "writeSeparator" false }}
-{{- if $showPostMeta }}
-  <div class="post_meta">
-{{- end }}
+<dl>
   {{- with .Params.started -}}
-      <span>Started {{ partial "sprite" (dict "icon" "calendar") }}</span>
+    <dt>Started</dt>
+    <dd>
       <span class="post_date">
         {{ . | time.Format ":date_long" }}
       </span>
-    {{- $scratch.Set "writeSeparator" true }}
+    </dd>
   {{- end }}
   {{- with .Params.completed -}}
-    <span>Completed {{ partial "sprite" (dict "icon" "calendar") }}</span>
-    <span class="post_date">
-      {{ . | time.Format ":date_long" }}
-    </span>
-    {{- $scratch.Set "writeSeparator" true }}
+    <dt>Completed</dt>
+    <dd>
+      <span class="post_date">
+        {{ . | time.Format ":date_long" }}
+      </span>
+    </dd>
   {{- end }}
-  {{- with .Params.tags -}}
-    <span>
-      {{- if ($scratch.Get "writeSeparator") }}&nbsp;· {{ end }}
+  {{- with .Params.suppliers -}}
+    <dt>Suppliers</dt>
+    <dd>
       {{- range . }}
-        {{- $tag := urlize . -}}
-        <a href='{{ absLangURL (printf "tags/%s/" $tag) }}' title="{{ . }}" class="post_tag button button_translucent">
-          {{- . }}
-        </a>
+        {{- . }}
       {{- end }}
-    </span>
-    {{- $scratch.Set "writeSeparator" true }}
+    </dd>
   {{- end }}
-{{- if $showPostMeta }}
-  </div>
-{{- end }}
+  {{- with .Params.rulesets -}}
+    <dt>Rulesets</dt>
+    <dd>
+      {{- range . }}
+        {{- . }}
+      {{- end }}
+    </dd>
+  {{- end }}
+</dl>
