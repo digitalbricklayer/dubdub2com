@@ -15,6 +15,12 @@
       </span>
     </dd>
   {{- end }}
+  {{- with .Params.scale -}}
+    <dt>Scale</dt>
+    <dd>
+      {{- . }}
+    </dd>
+  {{- end }}
   {{- with .Params.suppliers -}}
     <dt>Suppliers</dt>
     <dd>
