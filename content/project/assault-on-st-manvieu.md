@@ -15,7 +15,7 @@ tags:
 draft: true
 ---
 
-Project summary goes here
+Paint the extra items necessary to play the Assault on St. Manvieu scenario from the 'O' Group Normandy scenario book.
 
 <!--more-->
 
