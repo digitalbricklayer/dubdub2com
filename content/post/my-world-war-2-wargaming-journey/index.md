@@ -10,6 +10,8 @@ tags:
 
 A quick survey of my World War 2 wargaming journey so far up until September 2022.
 
+<!--more-->
+
 ## Bolt Action
 
 Bolt Action is the absolute juggernaut of hobbyist World War 2 wargaming. A lot of wargamers enter the hobby through Warhammer sci-fi offerings eventually want to go historical and the logical place for them to go is Bolt Action.
