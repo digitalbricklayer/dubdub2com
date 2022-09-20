@@ -17,3 +17,6 @@ tag = "tags"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+[params]
+customCSS = ["css/custom.css"]
