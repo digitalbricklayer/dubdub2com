@@ -1,40 +1,52 @@
-<dl>
-  {{- with .Params.started -}}
-    <dt>Started</dt>
-    <dd>
+<table class="project-meta">
+<tbody>
+  <tr>
+    <th>Started</th>
+    <td>
+      {{- with .Params.started -}}
+      <span class="post_date">
+        {{ . | time.Format ":date_long" }}
+      </span>      
+      {{- end }}
+    </td>
+  </tr>
+  <tr>
+    <th>Completed</th>
+    <td>
+      {{- with .Params.completed -}}
       <span class="post_date">
         {{ . | time.Format ":date_long" }}
       </span>
-    </dd>
-  {{- end }}
-  {{- with .Params.completed -}}
-    <dt>Completed</dt>
-    <dd>
-      <span class="post_date">
-        {{ . | time.Format ":date_long" }}
-      </span>
-    </dd>
-  {{- end }}
-  {{- with .Params.scale -}}
-    <dt>Scale</dt>
-    <dd>
-      {{- . }}
-    </dd>
-  {{- end }}
-  {{- with .Params.suppliers -}}
-    <dt>Suppliers</dt>
-      {{- range . }}
-      <dd>
-        {{- . }}
-      </dd>
       {{- end }}
-  {{- end }}
-  {{- with .Params.rulesets -}}
-    <dt>Rulesets</dt>
-      {{- range . }}
-      <dd>
+    </td>
+  </tr>
+  <tr>
+    <th>Scale</th>
+    <td>
+      {{- with .Params.scale -}}
         {{- . }}
-      </dd>
       {{- end }}
-  {{- end }}
-</dl>
+    </td>
+  </tr>
+  <tr>
+    <th>Suppliers</th>
+    <td>
+      {{- with .Params.suppliers -}}
+        {{- range . }}
+          {{- . }}
+        {{- end }}
+      {{- end }}
+    </td>
+  </tr>
+  <tr>
+    <th>Rulesets</th>
+    <td>
+      {{- with .Params.rulesets -}}
+        {{- range . }}
+          {{- . }}
+        {{- end }}
+      {{- end }}
+    </td>
+  </tr>
+</tbody>
+</table>
