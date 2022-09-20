@@ -15,8 +15,16 @@ tags:
 draft: true
 ---
 
-Paint the extra items necessary to play the Assault on St. Manvieu scenario from the 'O' Group Normandy scenario book.
+Paint the extra models necessary to play the Assault on St. Manvieu scenario from the 'O' Group Normandy scenario book.
 
 <!--more-->
+
+## Models Required
+
+### British
+
+- 2 British PIAT units
+
+### German
 
 More expansive description goes here...
