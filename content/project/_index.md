@@ -2,4 +2,4 @@
 title: Projects
 ---
 
-All current and completed Wooden Spoon projects.
+All current, future and completed Wooden Spoon projects.

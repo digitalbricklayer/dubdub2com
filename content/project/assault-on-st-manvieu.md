@@ -7,7 +7,7 @@ suppliers:
   - Baccus 6mm
   - 2D6
 started: 2022-09-08
-completed: 
+completed:
 rulesets:
   - O Group
 tags:
@@ -15,15 +15,17 @@ tags:
 draft: true
 ---
 
-Paint the extra models necessary to play the Assault on St. Manvieu scenario from the 'O' Group Normandy scenario book.
+Paint the extra models necessary to play the Assault on St. Manvieu scenario from the ['O' Group Normandy scenario book](https://www.karwansaraypublishers.com/en-gb/products/1944-normandy-for-o-group).
 
 <!--more-->
 
 ## Models Required
 
+This project doesn't require a huge amount of painting as I already have most of the models. Just need to fill in a few gaps.
+
 ### British
 
-- 2 British PIAT units
+- 2 British PIAT anti-tank units
 
 ### German
 
