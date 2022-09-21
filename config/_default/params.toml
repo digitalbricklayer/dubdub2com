@@ -62,7 +62,7 @@ enableMathNotation = false
 
 # directory(s) where your articles are located
 # see config details here https://gohugo.io/functions/where/#mainsections
-mainSections = ['post', 'project', 'tag']
+mainSections = ['post']
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally
