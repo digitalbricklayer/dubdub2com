@@ -27,4 +27,6 @@ Paint the extra models necessary to play the Assault on St. Manvieu scenario fro
 
 ### German
 
+- 1 German sniper unit
+
 More expansive description goes here...
