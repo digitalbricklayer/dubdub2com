@@ -9,3 +9,4 @@ tags:
 draft: true
 ---
 
+Too Fat Lardies are suppliers of a wide range of wargaming rules covering a wide range of periods from the bronze age right up to World War 2, Vietnam and beyond.
