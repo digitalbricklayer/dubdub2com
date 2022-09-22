@@ -1,53 +1,31 @@
-<h2>Army Content</h2>
+<h2>Army Contents</h2>
 <table class="army-meta">
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Quantity</th>
+    <th>SKU</th>
+    <th>Supplier</th>
+  </tr>
+</thead>
 <tbody>
+{{- with .Params.models -}}
+  {{- range . }}
   <tr>
-    <th>Started</th>
     <td>
-      {{- with .Params.started -}}
-      <span class="post_date">
-        {{ . | time.Format ":date_long" }}
-      </span>      
-      {{- end }}
+      {{ .name }}
+    </td>
+    <td>
+      {{ .qty }}
+    </td>
+    <td>
+      {{ .sku }}
+    </td>
+    <td>
+      {{ .supplier }}
     </td>
   </tr>
-  <tr>
-    <th>Completed</th>
-    <td>
-      {{- with .Params.completed -}}
-      <span class="post_date">
-        {{ . | time.Format ":date_long" }}
-      </span>
-      {{- end }}
-    </td>
-  </tr>
-  <tr>
-    <th>Scale</th>
-    <td>
-      {{- with .Params.scale -}}
-        <span>{{- . }}</span>
-      {{- end }}
-    </td>
-  </tr>
-  <tr>
-    <th>Suppliers</th>
-    <td>
-      {{- with .Params.suppliers -}}
-        {{- range . }}
-          <span>{{- . }}</span>
-        {{- end }}
-      {{- end }}
-    </td>
-  </tr>
-  <tr>
-    <th>Rulesets</th>
-    <td>
-      {{- with .Params.rulesets -}}
-        {{- range . }}
-          <span>{{- . }}</span>
-        {{- end }}
-      {{- end }}
-    </td>
-  </tr>
+  {{- end }}
+{{- end }}
 </tbody>
 </table>
