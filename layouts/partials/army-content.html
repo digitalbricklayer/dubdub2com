@@ -22,7 +22,10 @@
       {{ .sku }}
     </td>
     <td>
-      {{ .supplier }}
+      {{- $supplier_slug := urlize .supplier -}}
+      <a href='{{ absLangURL (printf "supplier/%s/" $supplier_slug) }}' title="{{ .supplier }}">
+        {{ .supplier }}
+      </a>
     </td>
   </tr>
   {{- end }}
