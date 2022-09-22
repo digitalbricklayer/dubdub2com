@@ -2,4 +2,4 @@
 title: Wooden Spoon Armies
 ---
 
-All current, future and completed Wooden Spoon projects.
+All fully painted and assembled Wooden Spoon armies.

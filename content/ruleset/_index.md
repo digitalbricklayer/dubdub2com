@@ -2,4 +2,4 @@
 title: Wooden Spoon Rules
 ---
 
-All current, future and completed Wooden Spoon projects.
+All wargaming rules currently of interest or actively in use by The Wooden Spoon.
