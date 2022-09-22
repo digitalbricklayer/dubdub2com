@@ -6,10 +6,8 @@ featureImage: "/images/path/file.jpg" # Sets featured image on blog post.
 featureImageAlt: 'Description of image' # Alternative text for featured image.
 featureImageCap: 'This is the featured image.' # Caption (optional).
 thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-scales:
-rulesets:       # List of relesets to be used
-  - Ruleset 1
-  - Ruleset 2
+supplier: 'Warlord Games Ltd'      # Who supplies the rules
+scales: '28mm'        # Scale miniatures that can be used with the ruleset
 tags:
   - Tag_name1
   - Tag_name2

@@ -8,9 +8,6 @@ featureImageCap: 'This is the featured image.' # Caption (optional).
 thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
 scales:
 website_url:
-rulesets:       # List of relesets supported or supplied
-  - Ruleset 1
-  - Ruleset 2
 tags:
   - Tag_name1
   - Tag_name2
