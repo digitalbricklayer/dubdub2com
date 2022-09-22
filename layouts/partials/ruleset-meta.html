@@ -15,7 +15,10 @@
     <th>Supplier</th>
     <td>
       {{- with .Params.supplier -}}
-        <span>{{- . }}</span>
+        {{- $supplier := urlize . -}}
+        <a href='{{ absLangURL (printf "supplier/%s/" $supplier) }}' title="{{ . }}">
+          {{- . }}
+        </a>
       {{- end }}
     </td>
   </tr>
