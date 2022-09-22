@@ -1,0 +1,31 @@
+<h2>Army Contents</h2>
+<table class="army-contents">
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Quantity</th>
+    <th>SKU</th>
+    <th>Supplier</th>
+  </tr>
+</thead>
+<tbody>
+{{- with .Params.models -}}
+  {{- range . }}
+  <tr>
+    <td>
+      {{ .name }}
+    </td>
+    <td>
+      {{ .qty }}
+    </td>
+    <td>
+      {{ .sku }}
+    </td>
+    <td>
+      {{ .supplier }}
+    </td>
+  </tr>
+  {{- end }}
+{{- end }}
+</tbody>
+</table>

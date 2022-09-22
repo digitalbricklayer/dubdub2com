@@ -1,31 +1,23 @@
-<h2>Army Contents</h2>
+<h2>Introduction</h2>
 <table class="army-meta">
-<thead>
-  <tr>
-    <th>Name</th>
-    <th>Quantity</th>
-    <th>SKU</th>
-    <th>Supplier</th>
-  </tr>
-</thead>
 <tbody>
-{{- with .Params.models -}}
-  {{- range . }}
   <tr>
+    <th>Scale</th>
     <td>
-      {{ .name }}
-    </td>
-    <td>
-      {{ .qty }}
-    </td>
-    <td>
-      {{ .sku }}
-    </td>
-    <td>
-      {{ .supplier }}
+      {{- with .Params.scale -}}
+        <span>{{- . }}</span>
+      {{- end }}
     </td>
   </tr>
-  {{- end }}
-{{- end }}
+  <tr>
+    <th>Rulesets</th>
+    <td>
+      {{- with .Params.rulesets -}}
+        {{- range . }}
+          <span>{{- . }}</span>
+        {{- end }}
+      {{- end }}
+    </td>
+  </tr>
 </tbody>
 </table>
