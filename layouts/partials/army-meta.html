@@ -14,7 +14,10 @@
     <td>
       {{- with .Params.rulesets -}}
         {{- range . }}
-          <span>{{- . }}</span>
+          {{- $ruleset_slug := urlize . -}}
+          <a href='{{ absLangURL (printf "ruleset/%s/" $ruleset_slug) }}' title="{{ . }}">
+            {{- . }}
+          </a>
         {{- end }}
       {{- end }}
     </td>
