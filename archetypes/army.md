@@ -8,10 +8,10 @@ featureImageCap: 'This is the featured image.' # Caption (optional).
 thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
 scale: '6mm'    # 6mm, 15mm etc
 models:         # all of the models used in the army
-  - Pz IVH
-      qty: 2
-      sku: 
-      supplier: 'Baccus 6mm'
+- name: Pz IVH
+  qty: 2
+  sku: 
+  supplier: Baccus 6mm
 rulesets:       # List of relesets supported
   - Ruleset 1
   - Ruleset 2
