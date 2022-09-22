@@ -1,0 +1,23 @@
+<h2>Introduction</h2>
+<table class="ruleset-meta">
+<tbody>
+  <tr>
+    <th>Scales</th>
+    <td>
+      {{- with .Params.scales -}}
+        {{- range . }}
+        <span>{{- . }}</span>
+        {{- end }}
+      {{- end }}
+    </td>
+  </tr>
+  <tr>
+    <th>Supplier</th>
+    <td>
+      {{- with .Params.supplier -}}
+        <span>{{- . }}</span>
+      {{- end }}
+    </td>
+  </tr>
+</tbody>
+</table>
