@@ -6,7 +6,6 @@ supplier: 'Battlefront Miniatures'
 scales: '15mm'
 tags:
   - Flames of War
-draft: true
 ---
 
 Flames of War is a company level tactical World War 2 tabletop wargame played with 15mm miniatures.

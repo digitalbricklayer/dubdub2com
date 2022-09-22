@@ -6,7 +6,6 @@ supplier: 'Battlefront Miniatures'
 scales: '15mm'
 tags:
   - Team Yankee
-draft: true
 ---
 
 Team Yankee is a company level tactical Cold War gone hot tabletop wargame played with 15mm miniatures.

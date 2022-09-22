@@ -7,7 +7,6 @@ website_url: 'https://www.flamesofwar.com/'
 tags:
   - Team Yankee
   - Flames of War
-draft: true
 ---
 
 Battlefront Miniatures are a long established manufacturer of 15mm miniatures as well as the Flames of War and Team Yankee rules.

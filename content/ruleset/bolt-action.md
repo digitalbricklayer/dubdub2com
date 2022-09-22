@@ -6,7 +6,6 @@ supplier: 'Warlord Games Ltd'
 scales: '28mm'
 tags:
   - Bolt Action
-draft: true
 ---
 
 Bolt Action is a platoon level tactical World War 2 tabletop wargame played with 28mm miniatures.

@@ -40,7 +40,6 @@ rulesets:
   - O Group
 tags:
   - O Group
-draft: true
 ---
 
 Late war German army focused on the Normandy campaign. Currently a single battalion with a few support options.

@@ -6,7 +6,6 @@ supplier: 'Too Fat Lardies'
 scales: 'agnostic'
 tags:
   - O Group
-draft: true
 ---
 
 ‘O’ Group is a set of WWII battalion level rules designed for a player to command a battalion sized force plus supports, or a multiplayer game where each player can command a battalion as part of a larger battlegroup.
