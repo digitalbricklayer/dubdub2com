@@ -6,7 +6,7 @@ featureImage: "/images/path/file.jpg" # Sets featured image on blog post.
 featureImageAlt: 'Description of image' # Alternative text for featured image.
 featureImageCap: 'This is the featured image.' # Caption (optional).
 thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-scales:
+scale:
 rulesets:       # List of relesets supported
   - Ruleset 1
   - Ruleset 2
