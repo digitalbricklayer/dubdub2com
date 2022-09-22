@@ -15,9 +15,19 @@
   weight = -106
 
 [[main]]
+  name = "Armies"
+  url = "army/"
+  weight = -105
+
+[[main]]
+  name = "Suppliers"
+  url = "supplier/"
+  weight = -104
+
+[[main]]
   name = "About"
   url = "about-us/"
-  weight = -105
+  weight = -103
 
 # social menu links
 [[social]]

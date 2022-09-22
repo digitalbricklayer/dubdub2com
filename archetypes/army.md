@@ -6,7 +6,7 @@ featureImage: "/images/path/file.jpg" # Sets featured image on blog post.
 featureImageAlt: 'Description of image' # Alternative text for featured image.
 featureImageCap: 'This is the featured image.' # Caption (optional).
 thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
-scale:          # 6mm, 15mm etc
+scale: '6mm'    # 6mm, 15mm etc
 models:         # all of the models used in the army
   - Pz IVH
       qty: 2
