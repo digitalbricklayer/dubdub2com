@@ -34,7 +34,10 @@
     <td>
       {{- with .Params.suppliers -}}
         {{- range . }}
-          <span>{{- . }}</span>
+          {{- $supplier := urlize . -}}
+          <a href='{{ absLangURL (printf "supplier/%s/" $supplier) }}' title="{{ . }}">
+            {{- . }}
+          </a>
         {{- end }}
       {{- end }}
     </td>
@@ -44,7 +47,10 @@
     <td>
       {{- with .Params.rulesets -}}
         {{- range . }}
-          <span>{{- . }}</span>
+          {{- $ruleset := urlize . -}}
+          <a href='{{ absLangURL (printf "ruleset/%s/" $ruleset) }}' title="{{ . }}">
+            {{- . }}
+          </a>
         {{- end }}
       {{- end }}
     </td>
