@@ -15,6 +15,15 @@ completed:      # Date project was completed. Empty if the project is not yet co
 rulesets:       # List of relesets to be used
   - Ruleset 1
   - Ruleset 2
+models:
+- name: German Battalion HQ
+  qty: 1
+  sku: 
+  supplier: Baccus 6mm
+- name: German FOO
+  qty: 1
+  sku: 
+  supplier: Baccus 6mm
 tags:
   - Tag_name1
   - Tag_name2
