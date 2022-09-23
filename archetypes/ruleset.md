@@ -8,6 +8,7 @@ featureImageCap: 'This is the featured image.' # Caption (optional).
 thumbnail: "/images/path/thumbnail.png" # Sets thumbnail image appearing inside card on homepage.
 supplier: 'Warlord Games Ltd'      # Who supplies the rules
 scales: '28mm'        # Scale miniatures that can be used with the ruleset
+authors: []
 tags:
   - Tag_name1
   - Tag_name2

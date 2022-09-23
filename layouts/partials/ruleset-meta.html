@@ -12,6 +12,18 @@
     </td>
   </tr>
   <tr>
+    <th>Author</th>
+    <td>
+      {{ if .Params.authors }}
+        {{- with .Params.authors -}}
+          {{- range . }}
+            <span>{{- . }}</span>
+          {{- end }}
+        {{- end }}
+    {{ end }}
+    </td>
+  </tr>
+  <tr>
     <th>Supplier</th>
     <td>
       {{- with .Params.supplier -}}
