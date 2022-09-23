@@ -8,6 +8,27 @@ suppliers:
   - 2D6 Wargaming
 started: 2022-09-08
 completed:
+models:
+- name: Panzer IVJ 75mm L48
+  qty: 1
+  sku: 
+  supplier: Baccus 6mm
+- name: German Sniper
+  qty: 1
+  sku: 
+  supplier: Baccus 6mm
+- name: British PIAT
+  qty: 1
+  sku: 
+  supplier: Baccus 6mm
+- name: Churchill MkIV 6pdr
+  qty: 2
+  sku: 
+  supplier: Baccus 6mm
+- name: Churchill Crocodile
+  qty: 1
+  sku: 
+  supplier: Baccus 6mm
 rulesets:
   - O Group
 tags:
@@ -22,15 +43,4 @@ Paint the extra models necessary to play the Assault on St. Manvieu scenario fro
 
 This project doesn't require a huge amount of painting as I already have most of the models. Just need to fill in a few gaps.
 
-### British
-
-- 1 British PIAT anti-tank units
-- 2 Churchill MkIV 6pdr
-- 1 Churchill Crocodile
-
-### German
-
-- 1 German sniper unit
-- 1 Panzer IVJ 75mm L48
-
-As you can see above this will be a very short project. The longest part of it will be waiting for the parts to arrive from Baccus 6mm.
+As you can see this will be a very short project. The longest part of it will be waiting for the parts to arrive from [Baccus 6mm]({{< ref "/supplier/baccus-6mm" >}}).
