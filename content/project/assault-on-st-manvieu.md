@@ -16,7 +16,7 @@ models:
 - name: German Sniper
   qty: 1
   sku: 
-  supplier: Baccus 6mm
+  supplier: 
 - name: British PIAT
   qty: 1
   sku: 
@@ -43,4 +43,4 @@ Paint the extra models necessary to play the Assault on St. Manvieu scenario fro
 
 This project doesn't require a huge amount of painting as I already have most of the models. Just need to fill in a few gaps.
 
-As you can see this will be a very short project. The longest part of it will be waiting for the parts to arrive from [Baccus 6mm]({{< ref "/supplier/baccus-6mm" >}}).
+As you can see this will be a very short project. The longest part of it will be waiting for the parts to arrive from [Baccus 6mm]({{< ref "/supplier/baccus-6mm" >}}). The German sniper is going to be a slight problem. I haven't been able to find a sniper model from either Baccus 6mm or 2D6 so I'm going to need to use a non sniper model instead. I'll see if I can find a rifleman and his buddy and use that instead. Two models on a base instead of the usual four.
