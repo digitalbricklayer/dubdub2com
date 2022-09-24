@@ -6,7 +6,7 @@ scale: 6mm
 suppliers:
   - Baccus 6mm
   - 2D6 Wargaming
-started: 2022-09-08
+started: 
 completed:
 models:
 - name: Panzer IVJ 75mm L48
