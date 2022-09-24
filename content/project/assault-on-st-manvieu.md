@@ -11,7 +11,7 @@ completed:
 models:
 - name: Panzer IVJ 75mm L48
   qty: 1
-  sku: 
+  sku: WGP45
   supplier: Baccus 6mm
 - name: German Sniper
   qty: 1
@@ -19,15 +19,15 @@ models:
   supplier: 
 - name: British PIAT
   qty: 1
-  sku: 
+  sku: WWB06
   supplier: Baccus 6mm
 - name: Churchill MkIV 6pdr
   qty: 2
-  sku: 
+  sku: WBT48
   supplier: Baccus 6mm
 - name: Churchill Crocodile
   qty: 1
-  sku: 
+  sku: WBT55
   supplier: Baccus 6mm
 rulesets:
   - O Group
