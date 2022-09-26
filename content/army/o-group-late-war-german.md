@@ -31,7 +31,7 @@ models:
 - name: German Panther Ausf. G
   qty: 16
   sku: 
-  supplier: Baccus 6mm
+  supplier: 2D6 Wargaming
 - name: German Jagdpanzer IV
   qty: 3
   sku: 
