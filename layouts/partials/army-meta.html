@@ -2,7 +2,7 @@
 <table class="army-meta">
 <tbody>
   <tr>
-    <th>Scale</th>
+    <th scope="row">Scale</th>
     <td>
       {{- with .Params.scale -}}
         <span>{{- . }}</span>
@@ -10,7 +10,7 @@
     </td>
   </tr>
   <tr>
-    <th>Rulesets</th>
+    <th scope="row">Rulesets</th>
     <td>
       {{- with .Params.rulesets -}}
         {{- range . }}

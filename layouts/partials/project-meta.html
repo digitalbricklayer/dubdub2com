@@ -2,7 +2,7 @@
 <table class="project-meta">
 <tbody>
   <tr>
-    <th>Started</th>
+    <th scope="row">Started</th>
     <td>
       {{- with .Params.started -}}
       <span class="post_date">
@@ -12,7 +12,7 @@
     </td>
   </tr>
   <tr>
-    <th>Completed</th>
+    <th scope="row">Completed</th>
     <td>
       {{- with .Params.completed -}}
       <span class="post_date">
@@ -22,7 +22,7 @@
     </td>
   </tr>
   <tr>
-    <th>Scale</th>
+    <th scope="row">Scale</th>
     <td>
       {{- with .Params.scale -}}
         <span>{{- . }}</span>
@@ -30,7 +30,7 @@
     </td>
   </tr>
   <tr>
-    <th>Suppliers</th>
+    <th scope="row">Suppliers</th>
     <td>
       {{- with .Params.suppliers -}}
         {{- range . }}

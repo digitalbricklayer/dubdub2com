@@ -3,7 +3,7 @@
 <table class="supplier-meta">
 <tbody>
   <tr>
-    <th>Scales</th>
+    <th scope="row">Scales</th>
     <td>
       {{- with .Params.scales -}}
         {{- range . }}
@@ -13,7 +13,7 @@
     </td>
   </tr>
   <tr>
-    <th>Website</th>
+    <th scope="row">Website</th>
     <td>
       {{- with .Params.website_url -}}
         <a href="{{- . }}">{{ $t | markdownify }}</a>
