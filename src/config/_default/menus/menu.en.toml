@@ -36,15 +36,10 @@
 
 # social menu links
 [[social]]
-  name = "twitter"
-  type = "social"
-  weight = 1
-  url = "https://twitter.com/MrJackHughes"
-[[social]]
   name = "facebook"
-  weight = 2
+  weight = 1
   url = "https://www.facebook.com/jack.hughes.5832"
 [[social]]
   name = "rss"
-  weight = 3
+  weight = 2
   url = "index.xml"

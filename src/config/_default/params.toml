@@ -2,8 +2,6 @@
 enableSearch = true
 
 # socials
-twitter = "@MrJackHughes"
-largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "One man's journey into tabletop wargaming and beyond."
 introURL = "about-us/"
 description = "The Wooden Spoon is a tabletop wargaming blog specialising in World War 2 gaming."
