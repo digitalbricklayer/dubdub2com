@@ -1,7 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://dubdub2.com/"  # Include trailing slash
-copyright = "Copyright © 2022, Jack Hughes; all rights reserved."
+copyright = "Jack Hughes"
 paginate = 10
 theme = ["github.com/chipzoller/hugo-clarity"]
 disqusShortname = ""
