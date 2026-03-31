@@ -1,5 +1,6 @@
 "use client";
 
+import { start } from "node:repl";
 import { useEffect, useRef } from "react";
 import { DataSet } from "vis-data";
 import { Timeline } from "vis-timeline/standalone";
@@ -10,46 +11,22 @@ export default function Home() {
 
   const timelineEvents = [
     {
-      title: "2020",
-      group: "western",
-      cardTitle: "Company Founded",
-      cardSubtitle: "Establishment",
-      cardDetailedText: "dubdub2.com was established with a vision to innovate in the digital space."
+      title: "1939",
+      start: new Date(1939, 9, 1),
+      end: new Date(1939, 9, 1),
+      group: "poland",
+      cardTitle: "Poland Campaign Begins",
+      cardSubtitle: "Poland is invaded, marking the start of World War II.",
+      cardDetailedText: "The invasion of Poland by Germany on September 1, 1939, marked the beginning of World War II. This event led to a global conflict that lasted until 1945, involving many nations and resulting in significant geopolitical changes."
     },
     {
-      title: "2021",
-      group: "eastern",
-      cardTitle: "First Product Launch",
-      cardSubtitle: "Product Release",
-      cardDetailedText: "Launched our flagship product, revolutionizing how users interact with technology."
-    },
-    {
-      title: "2022",
-      group: "western",
-      cardTitle: "Major Platform Update",
-      cardSubtitle: "Version 2.0",
-      cardDetailedText: "Released version 2.0 with enhanced features and improved user experience."
-    },
-    {
-      title: "2023",
-      group: "eastern",
-      cardTitle: "Strategic Partnerships",
-      cardSubtitle: "Business Growth",
-      cardDetailedText: "Formed key partnerships to expand our reach and capabilities."
-    },
-    {
-      title: "2024",
-      group: "western",
-      cardTitle: "Global Expansion",
-      cardSubtitle: "International Growth",
-      cardDetailedText: "Expanded operations internationally, serving customers worldwide."
-    },
-    {
-      title: "2025",
-      group: "eastern",
-      cardTitle: "Future Innovations",
-      cardSubtitle: "Upcoming Plans",
-      cardDetailedText: "Planning groundbreaking features and services for the coming year."
+      title: "1939",
+      start: new Date(1939, 9, 27),
+      end: new Date(1939, 9, 27),
+      group: "poland",
+      cardTitle: "Poland Campaign Ends",
+      cardSubtitle: "Poland falls to German forces.",
+      cardDetailedText: "The Polish Campaign ended with the fall of Warsaw, leading to the broader conflict of World War II."
     }
   ];
 
@@ -57,15 +34,16 @@ export default function Home() {
     if (!timelineRef.current) return;
 
     const groups = new DataSet([
-      { id: "western", content: "Western Front" },
-      { id: "eastern", content: "Eastern Front" },
+      { id: "poland", content: "Poland Campaign" },
+      { id: "eastern", content: "Operation Barbarossa" },
     ]);
 
     const items = new DataSet(
       timelineEvents.map((event, index) => ({
         id: index + 1,
         group: event.group,
-        start: `${event.title}-01-01`,
+        start: event.start,
+        end: event.end,
         content: `<div style="text-align:center;"><strong>${event.title}</strong><br/>${event.cardTitle}</div>`,
         title: `${event.cardTitle}: ${event.cardDetailedText}`,
       }))
@@ -77,8 +55,8 @@ export default function Home() {
       showCurrentTime: true,
       zoomable: true,
       horizontalScroll: true,
-      min: new Date("2019-01-01"),
-      max: new Date("2026-12-31"),
+      min: new Date(1939, 1, 1),
+      max: new Date(1945, 12, 31),
       moveable: true,
       tooltip: {
         followMouse: true,
